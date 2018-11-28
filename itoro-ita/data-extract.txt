@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="image/png" href="g.png"/>
+</head>
+<body>
+	<div id="">
+
+	<div id="nav">
+		   <ul id="mainlist">
+		   	   <li class = "navFont"><a href="#">Gmail</a></li>
+		   	   <li class = "navFont"><a href="#">Image</a></li>
+		   	   <li><img id="mg" src="icon.png"></li>
+		   	   <li><img id="mg" src="bell.png"></li>
+		   	   <li><img id="mg" src="account.png"></li>
+		   </ul>
+	</div>
